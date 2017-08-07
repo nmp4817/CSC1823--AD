@@ -9,6 +9,7 @@ ADVANCED TECHNOLOGIES IN DATABASES
   <li>TimeStampedProtocol</li>
   <li>Multiversion2PhaseLocking</li>
 </ol>
+
 #### Data Mining
 <hr>
 <ol>
